@@ -34,5 +34,5 @@ for `windows` , `MacOS`
 - 已經有預設幹話集請安心食用:)
 
 # web page
-![webpage](https://github.com/JeffreYao/restaurant-list/blob/master/restaurant_webpage.jpg?raw=true)
+![webpage](https://github.com/JeffreYao/trash_talk_generator/blob/master/trash_talk.jpg?raw=true)
 
