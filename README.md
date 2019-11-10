@@ -10,11 +10,11 @@ for `windows` , `MacOS`
 
 
 # 安裝
-1.	下載`restaurant-list`資料夾
+1.	下載`trash_talk_generator`資料夾
     ```
     $ git clone https://github.com/JeffreYao/trash_talk_generator.git
     ```
-2.	利用終端機(Terminal)打開“`restaurant-list“資料夾
+2.	利用終端機(Terminal)打開“trash_talk_generator“資料夾
     ```
     cd \資料夾路徑
     ```
